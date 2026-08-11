@@ -1,0 +1,47 @@
+RECONNAISSANCE DE FORME ET DE LA PAROLE
+
+UNE DISCIPLINE DIFFICILE :
+* la reconnaissance de forme et reconnessaince de la parole est une discipline de l'IA qui et tres difficile
+* Mathematiquement ,il est encnore tres difficile de comprendre le mecanisme de la reconnaissance humaine de formes etde la parole 100%
+
+PRINCIPE :
+supposons que l'on peut connaitre les lettres de l'alphabet,alorson devrait faire une experience sur un grand nombre d'individu a qui
+l'on demande par exemple d'ecrire la lettre A 
+. IL est clair que chaque individu a sa focon d'ecrire la lettre A .
+. Le problemes est de savoir interpreter chaque lettre a travers un logiciel
+
+principe 1: manaboatra matrice ary izay andalovan'ilay A lasa 1 ary izau tsi andalovany 0 ,avieo mahazo vecteur ,raha olona bdb zan de mahazo vecteur dbd ko tsika
+
+RECONAISSANCE DE LA PAROLE 
+
+avadika binaire ilay signiale ,echentionage (avieo mahazo nuage de point koa tsika avieo)
+
+ETO tsika dia mampiasa vecteur propre ,valeur propre ( no ampiasaina amni projection eleve a 
+ ou  dimention)
+
+
+
+VALEURS PROPRE ET VECTEUR PROPRE 
+on appelle vecteurs propre associe a la matrice A ,tous vecteur U apartient R**n tel que AU = "lamda"U
+ "lamda" s'appelle valeur propre associee au vacteur U
+
+alors (A-"lamda"I)U = 0 vecteur nulle
+eto dia mitovy any amni agebre mintsin
+(polynome caracteristique )
+
+
+ALGORITHME DE RECHERCHE DE VALEURS ,VECTEURS PROPRES
+
+tsy vita jeriko
+
+
+LES SYSTEMES EXPERTS: 
+misy karazana SEXP malaza be , branche iray ao amni IA
+ex : MYCIN (malaza tany USA)(nafahana nanao diagnostique ana marary amni alalani fantanina sy analyse) 
+ex : DONDRAL(premier SEXP)
+ex : PROSPECTOR (geologie) 
+
+def : est un outil d'informatique decisionnelle; 
+
+* En general , un systeme expert est ecrit dans un language specialise qui est le PROLOG(programming in logic)
+
